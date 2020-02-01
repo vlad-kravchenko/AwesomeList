@@ -1,2 +1,3 @@
-# AwesomeList
-Primitive custom collection
+Кастомная generic-обёртка вокруг Array. 
+
+Попытка разобраться в работе коллекций и написать свою.
